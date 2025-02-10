@@ -10,6 +10,11 @@
 .home-about-btn {
     padding: 10px;
     border-radius: 0%;
+    transition: background-color 0.3s ease;
+}
+
+.home-about-btn:hover {
+    background-color: rgb(82, 71, 71);
 }
 
 
